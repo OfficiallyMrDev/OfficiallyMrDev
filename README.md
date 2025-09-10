@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simplycallmedev
+- 👋 Hi, I’m @OfficiallyMrDev
 - 👀 I’m a tech enthusiast who loves coding 💻
 - 🌱 I’m currently learning Python and knows Web devlopment
 - 📫 How to reach me - Join my discord server and open a ticket
